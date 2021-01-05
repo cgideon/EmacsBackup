@@ -12,5 +12,5 @@
 
 ;; ----- smex-data -----
 (
- (package-install . 51)
+ (package-install . 60)
 )

@@ -22,7 +22,7 @@
  ;; If there is more than one, they won't work right.
  '(coffee-tab-width 2)
  '(package-selected-packages
-   '(git-messenger multi-term helm-gitignore helm-git git dired-git fountain-mode cheatsheet discover discover-my-major guide-key-tip guide-key helm-describe-modes helm-descbinds which-key omnisharp csharp-mode go go-mode phpunit php-mode tide npm json-mode js2-mode emmet-mode web-mode elpy aggressive-indent project-explorer find-file-in-project simpleclip popup-kill-ring move-text undo-fu-session undo-fu ace-jump-mode treemacs diredful neotree centaur-tabs ivy helm pyenv-mode pyvenv pyimport python-info python-pytest python-mode anaconda-mode magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell)))
+   '(dired-collapse dired-narrow dired-ranger dired-subtree dired-rainbow dired-open dired-avfs dired-filter dired-hacks-utils git-messenger multi-term helm-gitignore helm-git git dired-git fountain-mode cheatsheet discover discover-my-major guide-key-tip guide-key helm-describe-modes helm-descbinds which-key omnisharp csharp-mode go go-mode phpunit php-mode tide npm json-mode js2-mode emmet-mode web-mode elpy aggressive-indent project-explorer find-file-in-project simpleclip popup-kill-ring move-text undo-fu-session undo-fu ace-jump-mode treemacs diredful neotree centaur-tabs ivy helm pyenv-mode pyvenv pyimport python-info python-pytest python-mode anaconda-mode magit tagedit rainbow-delimiters projectile smex ido-completing-read+ cider clojure-mode-extra-font-locking clojure-mode paredit exec-path-from-shell)))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
