@@ -1,0 +1,2 @@
+;;; Generated package description from /Users/corygideon/.emacs.d/elpa/dash-functional-20210103.1524/dash-functional.el  -*- no-byte-compile: t -*-
+(define-package "dash-functional" "20210103.1524" "Collection of useful combinators for Emacs Lisp" '((emacs "24") (dash "2.0.0")) :commit "e8cc2ec10762f971fe0bf3ec2ad9a33b0fd513fc" :keywords '("extensions" "lisp") :url "https://github.com/magnars/dash.el")
