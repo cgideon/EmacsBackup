@@ -2,15 +2,16 @@
 ;; ----- smex-history -----
 (
  package-install
+ package-initialize
  cd
  5x5
  arp
  dbx
  dig
- erc
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 60)
+ (package-install . 62)
+ (package-initialize . 2)
 )
