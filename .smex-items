@@ -2,16 +2,22 @@
 ;; ----- smex-history -----
 (
  package-install
+ helm-slime-mode
+ slime
+ package-list-packages
+ ebrowse-electric-position-menu
+ dired
  package-initialize
- cd
- 5x5
- arp
- dbx
- dig
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 62)
+ (package-install . 69)
  (package-initialize . 2)
+ (dired-jump . 1)
+ (dired . 1)
+ (ebrowse-electric-position-menu . 1)
+ (package-list-packages . 1)
+ (slime . 1)
+ (helm-slime-mode . 1)
 )

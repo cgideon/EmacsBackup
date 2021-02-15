@@ -1,0 +1,59 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/" . "Controllers/")
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/" . "CSharp/")
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/" . "tech-assessment - Daniel Arellano/")
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/" . "tech-assessment/")
+ ("/Users/corygideon/Documents/sandbox/Eval/" . "danielarellano/")
+ ("/Users/corygideon/Documents/sandbox/" . "Eval/")
+ ("/Users/corygideon/Documents/" . "sandbox/")
+ ("/Users/corygideon/" . "Documents/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/Controllers/"
+ "/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/OrderDetails/"
+ "/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/Service/"
+ "/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/"
+ "/Users/corygideon/.config/powershell/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ 
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/Service/" (24595 56676 0 0) "Model.cs" "OrderService.cs" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/OrderDetails/" (24595 56676 0 0) "Order.cs" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/" (24595 56676 0 0) "Program.cs" "Controllers/" "Service/" "appsettings.Development.json" "Properties/" ".vs/" "appsettings.json" "Tests/" "CSharp.csproj.user" "Startup.cs" "OrderDetails/" "CSharp.csproj" "CSharp.sln" "bin/" "Repository/" "obj/" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/CSharp/Controllers/" (24595 56676 0 0) "OrdersController.cs" "Test.cs" "../" "./")
+
+ ("/Users/" (24076 20864 0 0) "corygideon/" "Guest/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/tech-assessment - Daniel Arellano/" (24601 49881 941201 711000) ".git/" "CSharp/" ".gitignore" "Node.JS/" "README.md" "Python/" "Go/" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/tech-assessment/" (24601 49881 982693 177000) ".git/" "tech-assessment - Daniel Arellano/" "CSharp/" ".gitignore" "Node.JS/" "README.md" "tech-assessment - Daniel Arellano.zip" "Python/" ".DS_Store" "Go/" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/Eval/danielarellano/" (24601 49875 860725 185000) "tech-assessment/" ".DS_Store" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/Eval/" (24601 49875 863374 946000) "joesitt/" "danielarellano/" ".DS_Store" "../" "./")
+
+ ("/Users/corygideon/Documents/sandbox/" (24596 22926 62080 605000) "Quantum/" "Eval/" "Collaborate/" "usergroups/" "SogetiSurveyApp/" "chef/" "AzureSpring/" ".DS_Store" "terraform/" "../" "./")
+
+ ("/Users/corygideon/Documents/" (24595 27799 734625 575000) "Grad School/" "Cory Resume (1).docx" "Research Papers/" "Zoidberg.txt.rtf" "Sogeti/" "Certifications/" "Zoom/" "iTerm2/" "sandbox/" "WebEx/" "iterm color/" "Bible Study/" "Azure/" ".localized" "Headshot" ".DS_Store" "Fishing/" "Shashank Letter.pdf" "Misc/" "../" "./")
+
+ ("/Users/corygideon/" (24601 63743 650963 902000) "miniconda3/" ".composer/" ".azureml/" ".conda/" ".astropy/" ".azure/" ".zsh_sessions/" ".viminfo" ".bash_history" ".native-image/" ".gitconfig" "Games/" "#*message*-20210102-115202#" ".cache/" ".python_history" "Downloads/" "AppInsights.ipynb" ".aspnet/" ".puppetlabs/" "backup/" ".bash_profile" ".m2/" ".vscode/" ".mono/" ".astah/" ".vimbackup/" ".vimrc.before" ".pyenv/" "Documents/" ".vmware/" ".terraform.d/" ".npm/" ".keras/" ".jupyter/" ".ipynb_checkpoints/" "Azure Sandbox.asta" ".zoomus/" ".Trash/" ".gradle/" ".jenv/" ".profile" "Applications/" ".dotnet/" ".vimrc" ".vimviews/" "Movies/" ".python27_compiled/" ".ssh/" ".rustup/" ".azurefunctions/" ".sonarlint/" ".flutter" ".kube/" "package-lock.json" "alias.txt" ".venvs/" ".fiddler/" "Public/" ".msvscode.hdinsight/" ".serverless/" ".ms_openjdk_config" ".vimrc.local" ".sqltools-setup" ".msvscode.azuredatalake/" "Sites/" ".cups/" ".cocoapods/" ".node-stats/" ".android/" ".cargo/" ".emacs.d/" ".minikube/" ".bridge/" ".IdentityService/" ".azcopy/" ".aiadalcache" ".matplotlib/" ".npmrc" "Library/" "Desktop/" ".ipython/" ".zsh_history" ".phpls/" ".boto" ".nuget/" "Postman/" ".hab/" "Broadcom/" ".dartServer/" "node_modules/" ".zprofile" ".atom/" ".lpk/" "Pictures/" "Projects/" ".local/" "emacsBackup/" "emacs_packages/" ".templateengine/" ".ServiceHub/" ".omnisharp/" ".zshrc" ".spf13-vim-3/" ".subversion/" ".vimswap/" ".tooling/" ".wallaby/" ".angular-config.json" ".CFUserTextEncoding" ".yarnrc" "get-pip.py" ".chef/" "nltk_data/" ".DS_Store" "go/" ".dart/" ".vim/" ".virtualenvs/" "#*message*-20210102-115734#" ".node-gyp/" "LogFiles/" ".docker/" ".vimundo/" ".rest-client/" ".julia/" ".serverlessrc" "curl.cmd" "spf13-vim.sh" "Music/" ".config/" ".eclipse/" ".pydev_vscode/" ".quokka/" ".vimrc.bundles" ".aiaccounts" "../" "./")
+
+ ("/Users/corygideon/.config/powershell/" (24558 32946 214103 88000) "profile.ps1" "Microsoft.PowerShell_profile.ps1" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
